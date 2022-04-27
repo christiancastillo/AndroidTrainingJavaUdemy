@@ -191,13 +191,14 @@
                 android:textColor="@color/black" />
 
             <Button
-                android:id="@+id/btn_pl"
+                android:id="@+id/btn_clear"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_weight="2"
+                android:layout_weight="1"
                 android:background="@drawable/cust_button"
-                android:text="/"
+                android:text="C"
                 android:textColor="@color/black" />
+
         </LinearLayout>
 
         <LinearLayout
